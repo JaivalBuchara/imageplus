@@ -2,6 +2,7 @@
   "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
+    "types": ["@radix-ui/react-slot"],
     "skipLibCheck": true,
     "strict": true,
     "noEmit": true,
