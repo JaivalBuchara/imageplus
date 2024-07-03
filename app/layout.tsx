@@ -6,7 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Room from "./Room";
 
 export const metadata = {
-  title: "Figma Clone",
+  title: "ImagePlus+",
   description:
     "A minimalist Figma clone using fabric.js and Liveblocks for realtime collaboration",
 };
